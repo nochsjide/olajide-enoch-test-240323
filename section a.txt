@@ -1,0 +1,16 @@
+1. Structured Query Language
+
+2 a. VARCHAR:this is string data type in SQL that can take in numbers letters alphaanumeric characters the length must be specified during creation
+   b. TEXT:this is string data type in SQL that can take in numbers letters alphaanumeric characters the length does not have to be specified
+   c. INTEGER: this is a data type in SQL that takes in whole numbers
+   d. DATETIME: this is  a data type in sql that takes in date and time values and date time values
+
+3 a.SUM: this sums and returns the sum of all the rows of a selected column from  a table in the database
+   b. MAX: this returns the maximum value of a column from all the rows from  a table in the database
+   c. MIN:this returns the minimum value of a column from all the rows from  a table in the database
+
+4. a Data Control Language: It is used for controlling data in the database
+    b Data manipulation Language: It is used for manipulating data in the database
+    c transaction control Language: It is used for controlling transactions in the database
+    d Data query Language : It is used for querying data from the database
+    e Data definition language: this is used for defining and creating data ,tables in the database examples are CREATE,INSERT
